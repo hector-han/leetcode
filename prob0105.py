@@ -38,6 +38,7 @@ if __name__ == '__main__':
     print('1')
     root = sol.buildTree(preorder, inorder)
     print('2')
-    import prob0094 as p94
+    from tree import prob0094 as p94
+
     sol94 = p94.Solution()
     print(sol94.inorderTraversal(root))

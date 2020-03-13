@@ -25,7 +25,6 @@ class Solution:
         cur = root
         while cur != None or len(stack) > 0:
             if cur != None:
-                stack.append(cur)
                 cur = cur.left
             else:
                 cur = stack.pop()

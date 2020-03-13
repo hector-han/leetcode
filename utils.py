@@ -18,6 +18,8 @@ def parse_tree(list_val):
         if v is not None:
             nodes[i] = TreeNode(v)
         parent_id = (i-1) // 2
+        if nodes[parent_id] is None:
+            continue
         if i % 2 == 0:
             nodes[parent_id].right = nodes[i]
         else:
