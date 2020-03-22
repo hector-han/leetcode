@@ -1,5 +1,6 @@
 """
 Given a collection of intervals, merge all overlapping intervals.
+medium
 """
 from typing import List
 
