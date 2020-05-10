@@ -43,7 +43,43 @@ class Solution:
         return maximum
 
 
+class Solution2:
+    def longestValidParentheses(self, s: str) -> int:
+        """
+        不需要额外空间的解法， 从左到右遍历，
+        :param s:
+        :return:
+        """
+        max_len = 0
+        left = 0
+        right = 0
+        for c in s:
+            if c == '(':
+                left += 1
+            else:
+                right += 1
+            if right > left:
+                left, right = 0, 0
+            elif right == left:
+                this_max = 2 * left
+                if this_max > max_len:
+                    max_len = this_max
+        left, right = 0, 0
+        for i in range(len(s)-1, -1, -1):
+            c = s[i]
+            if c == '(':
+                left += 1
+            else:
+                right += 1
+            if right < left:
+                left, right = 0, 0
+            elif right == left:
+                this_max = 2 * left
+                if this_max > max_len:
+                    max_len = this_max
+        return max_len
+
 if __name__ == '__main__':
-    sol = Solution()
+    sol = Solution2()
     print(sol.longestValidParentheses('(()'))
     print(sol.longestValidParentheses(')()())'))

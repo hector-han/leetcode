@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a66ec0d-3b1b-46d6-a499-e3edc9bc9ee3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prob0354.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursive/prob0969.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/inter05.08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/prob0015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/prob0532.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_search/prob0875.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_search/prob1011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/prob1012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/prob1025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/prob1027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dp/prob1278.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/prob0739.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob0031.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/prob0031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob0032.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/prob0032.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +28,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>.*</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,80 +38,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/jupyter/cs224n/a2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\python\leetcode\stack" />
       <recent name="D:\code\python\leetcode\dp" />
+      <recent name="D:\code\python\leetcode\array" />
       <recent name="D:\code\python\leetcode\sliding_window" />
       <recent name="D:\code\python\leetcode\tree" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prob0354">
-    <configuration name="prob0239" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/queue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queue/prob0239.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prob0354" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prob0354.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prob0556" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/prob0556.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prob0650" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.prob0739 (1)">
+    <configuration name="prob0032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/prob0650.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/prob0032.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prob0969" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prob0739 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +80,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursive" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursive/prob0969.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/prob0739.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prob0739" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\code\python\leetcode\stack\prob0739.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prob1027" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/prob1027.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prob1278" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/prob1278.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prob0354" />
-        <item itemvalue="Python.prob0969" />
-        <item itemvalue="Python.prob0239" />
-        <item itemvalue="Python.prob0556" />
-        <item itemvalue="Python.prob0650" />
+        <item itemvalue="Python.prob0739 (1)" />
+        <item itemvalue="Python.prob0739" />
+        <item itemvalue="Python.prob0032" />
+        <item itemvalue="Python.prob1027" />
+        <item itemvalue="Python.prob1278" />
       </list>
     </recent_temporary>
   </component>
@@ -195,33 +201,57 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="201" key="GridCell.Tab.0.bottom" timestamp="1586710975448">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588669739683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586710975448" />
-    <state width="1899" height="201" key="GridCell.Tab.0.center" timestamp="1586710975448">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588669739683" />
+    <state width="1899" height="214" key="GridCell.Tab.0.bottom" timestamp="1588867383593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="201" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586710975448" />
-    <state width="1899" height="201" key="GridCell.Tab.0.left" timestamp="1586710975448">
+    <state width="1899" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588867383593" />
+    <state width="1899" height="214" key="GridCell.Tab.0.center" timestamp="1588867383593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="201" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586710975448" />
-    <state width="1899" height="201" key="GridCell.Tab.0.right" timestamp="1586710975448">
+    <state width="1899" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588867383593" />
+    <state width="1899" height="214" key="GridCell.Tab.0.left" timestamp="1588867383593">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="201" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586710975448" />
+    <state width="1899" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588867383593" />
+    <state width="1899" height="214" key="GridCell.Tab.0.right" timestamp="1588867383593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588867383593" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1588648131958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588648131958" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1588648131957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588648131957" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1588648131957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588648131957" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1588648131957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588648131957" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1586679735316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586679735316" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587192638598">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588636403042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587192638598" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587192660545">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588636403042" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1588304950463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587192660545" />
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588304950463" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589125208992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589125208992" />
   </component>
 </project>
