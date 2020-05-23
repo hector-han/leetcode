@@ -7,7 +7,8 @@ medium
 注意: "aba" 也是一个有效答案。
 
 1、中心扩展法，从中心开始往两边扩展，直到最大长度
-2、Manacher算法，有点复杂
+2、两个下标dp
+3、Manacher算法，有点复杂
 """
 
 class Solution1:
