@@ -51,6 +51,7 @@ class Solution:
                 left = mid + 1
         return left
 
+
 if __name__ == '__main__':
     sol = Solution()
     weights = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
