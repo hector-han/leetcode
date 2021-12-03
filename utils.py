@@ -8,6 +8,29 @@ class TreeNode:
         self.right = None
 
 
+# Definition for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+
+def create_link_list(arr):
+    head = ListNode(arr[0])
+    node = head
+    for v in arr[1:]:
+        cur = ListNode(v)
+        node.next = cur
+        node = cur
+    return head
+
+
+def print_link_list(head):
+    while head:
+        print(head.val)
+        head = head.next
+
+
 def parse_tree(list_val):
     nums = len(list_val)
     nodes = [None] * nums
